@@ -1,6 +1,6 @@
 # Calculator
 
-With this application you can perform simple mathematical opertions on real numbers like sum, substract, multiply, divide, squere root and squere power.
+With this application you can perform simple mathematical opertions on real numbers like sum, substract, multiply, divide, square root and square power.
 
 How to create project in Visual Studio
 1. Create new WinForms Project.
